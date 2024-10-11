@@ -21,21 +21,41 @@ Technologies Used
   * PHP: To handle server-side scripting and connect to the database for dynamic functionality.
 
 Setup
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/it-event-hub.git
-Navigate to the project directory:
+   1. Clone the repository:
+      code: - git clone https://github.com/yourusername/it-event-hub.git
 
-bash
-Copy code
-cd it-event-hub
-Set up the database:
+   2. Navigate to the project directory:
+      code: - cd it-event-hub
 
-Import the provided SQL file into MySQL.
-Update the database connection credentials in the config.php file.
-Start the development server:
+   3. Set up the database:
+      
+       * Import the provided SQL file into MySQL.
+       * Update the database connection credentials in the config.php file.
+         
+   4. Start the development server:
+      * Ensure your server (Apache or XAMPP) is running.
+      * Access the project through your web browser by navigating to localhost/it-event-hub.
 
-Ensure your server (Apache or XAMPP) is running.
-Access the project through your web browser by navigating to localhost/it-event-hub.
+Usage
+  * Browse through the event listings by category or location.
+  * Submit events using the "Add Event" form.
+  * Subscribe to receive updates about new and upcoming events.
+  * Provide feedback to help us improve.
+    
+Contribution
+We welcome contributions! If you’d like to contribute to the development of It Event Hub, follow these steps:
+
+  1. Fork the repository.
+  2. Create a new branch:
+       * CSS :- git checkout -b feature-branch-name
+
+  3. Make your changes and commit:
+       * SQL: - git commit -m "Add feature"
+         
+  4. Push to the branch:
+       * perl: - git push origin feature-branch-name
+         
+  5. Open a pull request.
+
+     
