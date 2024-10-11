@@ -19,3 +19,23 @@ Technologies Used
   * CSS: To style the website and ensure a modern, responsive design.
   * MySQL: For storing all event and user data securely.
   * PHP: To handle server-side scripting and connect to the database for dynamic functionality.
+
+Setup
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/it-event-hub.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd it-event-hub
+Set up the database:
+
+Import the provided SQL file into MySQL.
+Update the database connection credentials in the config.php file.
+Start the development server:
+
+Ensure your server (Apache or XAMPP) is running.
+Access the project through your web browser by navigating to localhost/it-event-hub.
