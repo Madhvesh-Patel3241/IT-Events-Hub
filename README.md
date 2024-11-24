@@ -58,4 +58,9 @@ We welcome contributions! If you’d like to contribute to the development of It
          
   5. Open a pull request.
 
-     
+## Output Of the Website 
+
+### Home Page
+
+     ![Screenshot 2024-11-22 172153](https://github.com/user-attachments/assets/7c07b209-4b9d-417e-849b-723c4c774a25)
+
