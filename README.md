@@ -62,5 +62,5 @@ We welcome contributions! If you’d like to contribute to the development of It
 
 ### Home Page
 
-     ![Screenshot 2024-11-22 172153](https://github.com/user-attachments/assets/7c07b209-4b9d-417e-849b-723c4c774a25)
+![Screenshot 2024-11-22 172153](https://github.com/user-attachments/assets/3d6d5080-4642-4dda-8711-2aa8b3714e78)
 
