@@ -68,4 +68,7 @@ We welcome contributions! If you’d like to contribute to the development of It
 
 ![Screenshot 2024-11-22 172236](https://github.com/user-attachments/assets/219ae5f2-7e8b-456a-9272-1ee3d935abae)
 
+### Feedback Page
+
+![Screenshot 2024-11-22 172427](https://github.com/user-attachments/assets/174ec07c-15a7-49f7-80b5-5d1d3ccb23c6)
 
