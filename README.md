@@ -64,3 +64,8 @@ We welcome contributions! If you’d like to contribute to the development of It
 
 ![Screenshot 2024-11-22 172153](https://github.com/user-attachments/assets/3d6d5080-4642-4dda-8711-2aa8b3714e78)
 
+### Workshop & Seminar Page
+
+![Screenshot 2024-11-22 172236](https://github.com/user-attachments/assets/219ae5f2-7e8b-456a-9272-1ee3d935abae)
+
+
