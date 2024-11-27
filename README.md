@@ -72,3 +72,6 @@ We welcome contributions! If you’d like to contribute to the development of It
 
 ![Screenshot 2024-11-22 172427](https://github.com/user-attachments/assets/174ec07c-15a7-49f7-80b5-5d1d3ccb23c6)
 
+### Subscribe Page
+
+![Screenshot 2024-11-22 172446](https://github.com/user-attachments/assets/359667f3-ddd0-4eb9-837b-2e66f138e09a)
